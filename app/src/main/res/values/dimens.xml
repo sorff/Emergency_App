@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marge_standard">16dp</dimen>
+    <dimen name="marge_large">24dp</dimen>
+    <dimen name="marge_small">8dp</dimen>
+    <dimen name="texte_titre">22sp</dimen>
+    <dimen name="texte_sous_titre">16sp</dimen>
+    <dimen name="texte_corps">14sp</dimen>
+    <dimen name="texte_label">12sp</dimen>
+    <dimen name="card_radius">16dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_padding">16dp</dimen>
+    <dimen name="btn_height">56dp</dimen>
+    <dimen name="btn_radius">100dp</dimen>
+    <dimen name="icon_size">28dp</dimen>
+    <dimen name="icon_bg_size">52dp</dimen>
+    <dimen name="avatar_size">80dp</dimen>
+    <dimen name="sos_button_size">160dp</dimen>
+    <dimen name="sos_ring_size">220dp</dimen>
+</resources>

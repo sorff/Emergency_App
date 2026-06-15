@@ -1,0 +1,184 @@
+<resources>
+    <string name="app_name">AidGuard</string>
+    <string name="app_tagline">Votre sécurité, notre priorité</string>
+    <string name="chargement">Chargement…</string>
+
+    <!-- Bottom navigation -->
+    <string name="nav_home">Accueil</string>
+    <string name="nav_contacts">Contacts</string>
+    <string name="nav_map">Carte</string>
+    <string name="nav_alerts">Alertes</string>
+
+    <!-- Auth : Verify Identity -->
+    <string name="verify_identity">Vérifier l\'identité</string>
+    <string name="verify_subtitle">Votre sécurité est notre priorité. Entrez votre numéro de mobile pour accéder en toute sécurité aux services d\'urgence.</string>
+    <string name="phone_label">Numéro de téléphone</string>
+    <string name="encrypted_note">AidGuard utilise une authentification chiffrée. Nous ne partagerons jamais votre numéro avec des tiers non autorisés.</string>
+    <string name="send_code">Envoyer le code de vérification</string>
+    <string name="sms_consent">En continuant, vous acceptez de recevoir un SMS automatisé de vérification. Des frais peuvent s\'appliquer.</string>
+
+    <!-- Auth : OTP -->
+    <string name="verification_code">Code de vérification</string>
+    <string name="enter_code">Entrez le code à 6 chiffres envoyé au %1$s</string>
+    <string name="resend_code">Renvoyer le code</string>
+    <string name="didnt_receive">Vous n\'avez pas reçu de code ?</string>
+    <string name="otp_note">La vérification garantit que vous seul pouvez accéder à votre profil d\'urgence AidGuard. Ne partagez jamais ce code.</string>
+    <string name="verify_continue">Vérifier et continuer</string>
+    <string name="code_invalide">Code invalide, réessayez</string>
+    <string name="code_envoye">Code envoyé</string>
+
+    <!-- Profil -->
+    <string name="user_profile">Profil utilisateur</string>
+    <string name="profile_subtitle">Assurez-vous que vos informations médicales sont exactes pour une intervention plus rapide.</string>
+    <string name="full_name">Nom complet</string>
+    <string name="hint_full_name">ex. Jonathan Doe</string>
+    <string name="blood_type">Groupe sanguin</string>
+    <string name="critical_conditions">Conditions médicales critiques</string>
+    <string name="hint_conditions">Listez allergies, médicaments actuels ou pathologies préexistantes…</string>
+    <string name="save_profile_continue">Enregistrer et continuer</string>
+
+    <!-- SOS Dashboard -->
+    <string name="current_status">STATUT ACTUEL</string>
+    <string name="system_monitoring">Surveillance du système…</string>
+    <string name="secure">Sécurisé</string>
+    <string name="sos_hold">Maintenir 3s</string>
+    <string name="call_police">Appeler la police</string>
+    <string name="call_medical">Appeler les secours</string>
+    <string name="notify_contacts">Prévenir les contacts de confiance</string>
+    <string name="active_contacts">%1$d contacts actifs</string>
+    <string name="your_location">VOTRE POSITION</string>
+    <string name="locating">Localisation…</string>
+    <string name="sos_declenche">Alerte SOS déclenchée</string>
+
+    <!-- Contacts (redesign) -->
+    <string name="manage_circle">Gérez votre cercle de sécurité</string>
+    <string name="security_level">NIVEAU DE SÉCURITÉ</string>
+    <string name="optimal">Optimal</string>
+    <string name="active_alert">ALERTE ACTIVE</string>
+    <string name="none">Aucune</string>
+    <string name="search_contacts">Rechercher des contacts…</string>
+    <string name="call_action">Appel</string>
+    <string name="message_action">SMS</string>
+
+    <!-- Add contact (redesign) -->
+    <string name="new_contact">Nouveau contact</string>
+    <string name="contact_full_name">Nom complet du contact</string>
+    <string name="hint_contact_name">ex. Sarah Jenkins</string>
+    <string name="mobile_phone">Numéro de mobile</string>
+    <string name="relationship">Relation</string>
+    <string name="select_relationship">Sélectionner une relation</string>
+    <string name="primary_responder">Définir comme répondant principal</string>
+    <string name="primary_responder_sub">Cible du SMS d\'urgence instantané</string>
+    <string name="save_contact">Enregistrer le contact</string>
+    <string name="add_contact_note">Les contacts d\'urgence sont prévenus par SMS uniquement lorsque vous déclenchez une alerte SOS.</string>
+
+    <!-- Alerts / Notifications -->
+    <string name="notifications">Notifications</string>
+    <string name="mark_all_read">Tout marquer comme lu</string>
+    <string name="recent_alerts">Alertes récentes</string>
+    <string name="ready_assistance">Prêt pour l\'assistance</string>
+    <string name="system_active">SYSTÈME ACTIF</string>
+    <string name="realtime_tracking">Suivi en temps réel activé</string>
+    <string name="trusted_contacts">Contacts de confiance</string>
+    <string name="dismiss">Ignorer</string>
+    <string name="view_map">Voir la carte</string>
+
+    <!-- Login -->
+    <string name="bienvenue">Bienvenue</string>
+    <string name="entrez_infos">Entrez vos informations pour continuer</string>
+    <string name="nom_complet">Nom complet</string>
+    <string name="numero_telephone">Numéro de téléphone</string>
+    <string name="se_rappeler">Se rappeler de moi</string>
+    <string name="commencer">Commencer</string>
+    <string name="conditions">En continuant, vous acceptez nos conditions d\'utilisation</string>
+    <string name="erreur_nom">Veuillez entrer votre nom</string>
+    <string name="erreur_telephone">Veuillez entrer votre numéro de téléphone</string>
+
+    <!-- Accueil -->
+    <string name="appuyez_urgence">APPUYEZ EN CAS D\'URGENCE</string>
+    <string name="sos">SOS</string>
+    <string name="mes_alertes">Mes Alertes</string>
+    <string name="carte">Carte</string>
+    <string name="contacts">Contacts</string>
+    <string name="parametres">Paramètres</string>
+    <string name="bienvenue_header">Bienvenue 👋</string>
+    <string name="bonjour">Bonjour, %1$s</string>
+    <string name="statut_aucune_alerte">Statut : Aucune alerte active</string>
+
+    <!-- Alertes -->
+    <string name="aucune_alerte">Aucune alerte enregistrée</string>
+    <string name="en_cours">EN COURS</string>
+    <string name="resolu">RÉSOLU</string>
+    <string name="nouvelle_alerte">Nouvelle Alerte</string>
+
+    <!-- Nouvelle alerte -->
+    <string name="type_urgence">TYPE D\'URGENCE</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="decrivez_situation">Décrivez votre situation en détail…</string>
+    <string name="inclure_gps">Inclure ma position GPS</string>
+    <string name="gps_activee">Activée</string>
+    <string name="gps_desactivee">Désactivée</string>
+    <string name="photo_optionnel">PHOTO (OPTIONNEL)</string>
+    <string name="prendre_photo">Prendre une photo</string>
+    <string name="envoyer_alerte">Envoyer l\'alerte</string>
+    <string name="erreur_type">Veuillez sélectionner un type d\'urgence</string>
+    <string name="erreur_description">Veuillez entrer une description</string>
+    <string name="alerte_envoyee">Alerte envoyée avec succès</string>
+    <string name="alerte_sauvegardee">Alerte sauvegardée localement</string>
+    <string name="erreur_reseau">Erreur réseau, alerte sauvegardée localement</string>
+    <string name="nb_caracteres">%1$d caractères</string>
+
+    <!-- Types d'urgence -->
+    <string name="panne">Panne</string>
+    <string name="accident">Accident</string>
+    <string name="medical">Médical</string>
+    <string name="incendie">Incendie</string>
+    <string name="autre">Autre</string>
+
+    <!-- Carte -->
+    <string name="rechercher_service">Rechercher un service…</string>
+    <string name="services_proches">%1$d services proches</string>
+    <string name="appeler">Appeler</string>
+    <string name="carte_indisponible">Carte indisponible. Configurez une clé API Google Maps.</string>
+
+    <!-- Contacts -->
+    <string name="contacts_urgence">Contacts d\'urgence</string>
+    <string name="aucun_contact">Ajoutez vos contacts d\'urgence</string>
+    <string name="ajouter_contact">Ajouter un contact</string>
+    <string name="nom_contact">Nom du contact</string>
+    <string name="telephone_contact">Numéro de téléphone</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="annuler">Annuler</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="erreur_nom_contact">Veuillez entrer un nom</string>
+    <string name="erreur_tel_contact">Veuillez entrer un numéro de téléphone</string>
+
+    <!-- Paramètres -->
+    <string name="profil">PROFIL</string>
+    <string name="preferences">PRÉFÉRENCES</string>
+    <string name="zone_danger">ZONE DE DANGER</string>
+    <string name="notifications_activees">Notifications activées</string>
+    <string name="localisation_auto">Localisation automatique</string>
+    <string name="mode_sombre">Mode sombre</string>
+    <string name="sauvegarder">Sauvegarder</string>
+    <string name="profil_sauvegarde">Profil sauvegardé</string>
+    <string name="vider_historique">🗑 Vider l\'historique des alertes</string>
+    <string name="confirmer_suppression">Confirmer la suppression</string>
+    <string name="message_suppression">Voulez-vous vraiment supprimer tout l\'historique des alertes ?</string>
+    <string name="historique_vide">Historique supprimé</string>
+
+    <!-- SOS -->
+    <string name="message_sos">ALERTE URGENCE - %1$s a besoin d\'aide</string>
+    <string name="permission_appel_refusee">Permission d\'appel refusée</string>
+    <string name="permission_camera_refusee">Permission caméra refusée</string>
+    <string name="permission_gps_refusee">Permission localisation refusée</string>
+
+    <!-- Navigation -->
+    <string name="retour">Retour</string>
+    <string name="telephone">Téléphone</string>
+
+    <!-- Réglages -->
+    <string name="settings_title">Réglages</string>
+    <string name="logout">Se déconnecter</string>
+    <string name="confirmer_logout">Voulez-vous vraiment vous déconnecter ?</string>
+</resources>
