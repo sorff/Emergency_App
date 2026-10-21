@@ -3,7 +3,6 @@
 > Application Android d'assistance d'urgence (panne, accident, secours).
 > Documentation technique complète — de A à Z.
 
-Cette documentation est conçue pour qu'après lecture, vous puissiez **expliquer et défendre l'application devant n'importe quel expert** : architecture, choix techniques, fonctionnement de chaque écran, concepts Android utilisés, et réponses aux questions de soutenance.
 
 ## Sommaire
 
