@@ -1,7 +1,7 @@
 # Documentation — AidGuard (EmergencyApp)
 
 > Application Android d'assistance d'urgence (panne, accident, secours).
-> Documentation technique complète — de A à Z.
+
 
 
 ## Sommaire
